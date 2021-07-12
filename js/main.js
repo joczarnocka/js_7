@@ -1,5 +1,5 @@
-let firstNumber = 100
-let secondNumber = 1000
+let firstNumber = 100;
+let secondNumber = 1000;
 
 
 function sum(num1, num2){
@@ -7,6 +7,6 @@ function sum(num1, num2){
 }
 
 
-result = sum(firstNumber, secondNumber)
+result = sum(firstNumber, secondNumber);
 
-console.log(result)
+console.log(result);
